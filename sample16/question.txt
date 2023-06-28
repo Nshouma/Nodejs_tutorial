@@ -1,0 +1,2 @@
+Eventemitterに複数のイベント("event")を設定し、
+Eventemitterを実行
